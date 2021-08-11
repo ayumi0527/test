@@ -1,5 +1,5 @@
 <?php
-$a = 1;
+$a = 3;
 ?>
 <!DOCTYPE html>
 <html lang="ja">

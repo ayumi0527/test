@@ -1,5 +1,5 @@
 <?php
-$b = 2;
+$b = 'b';
 ?>
 
 <!DOCTYPE html>
